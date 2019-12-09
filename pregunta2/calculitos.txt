@@ -1,0 +1,8 @@
+el resultado a respecto a b supone un porcentaje de :: 3
+el resultado a respecto a b supone un porcentaje de :: 3
+el resultado de la division de los operadores a y b :: 6 y el resto es: 0
+:
+:
+:
+la division entre 0 no se puede: 0 y el resto es:
+el resultado de la division de los operadores a y b :: 3 y el resto es: 0
