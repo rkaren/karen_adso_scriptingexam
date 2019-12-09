@@ -1,0 +1,9 @@
+
+auto dfd
+iface dfd inet static
+
+auto f
+iface f inet static
+Address b
+Netmask d
+Broadcast f
