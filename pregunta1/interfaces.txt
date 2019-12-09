@@ -1,0 +1,2 @@
+auto df
+iface df inet static
